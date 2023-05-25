@@ -1,0 +1,1 @@
+https://serverlessland.com/reinvent2022/30dayssls
